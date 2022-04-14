@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jayesh260
+- 👀 I’m interested in learning and trying new languages.
+- 🌱 I’m currently learning cpp,c.
+- 💞️ I’m looking to collaborate on projects and assignment.
+- 
