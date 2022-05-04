@@ -61,10 +61,7 @@
 - ✅  jayesh.poonia9@gmail.com
 - ✅  disocrd :- Suspicious Lucy#1284
 - ✅  instagram :- jayeshpoonia
-
-|  Contribution Stats  |
-|----------------------|
-| ![](./profile-3d-contrib/profile-night-view.svg) |
+![](./profile-3d-contrib/profile-night-view.svg)
 
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayesh260&theme=ayu-mirage)
