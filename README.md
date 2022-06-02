@@ -50,10 +50,7 @@
 </p>
 
 <h3 align="left">Coding Profiles:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/lucymathew" target="blank"><img align="center" src="https://img.shields.io/badge/lucymathew-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="lucymathew"/></a>
-<a href="https://leetcode.com/Jayesh260/" target="blank"><img align="center" src="https://img.shields.io/badge/jayesh260-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Jayesh260"/></a>
-</p>
+
 
 
 
