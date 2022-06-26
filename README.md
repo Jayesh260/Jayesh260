@@ -30,12 +30,18 @@
  <a href="https://www.linkedin.com/in/jayesh-poonia-7b679a224/" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Utkarsh"
+      alt="Jayesh260"
       height="30"
       width="40"
   /></a>
 </p>
-
+<a herf="https://devpost.com/jayesh-poonia9?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" targer="blank"><img 
+       align="center"
+       src="https://devpost-challengepost.netdna-ssl.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg"
+       alt="Jayesh260"
+       height="30"
+       Width="60"
+    /></a>
 <h3 align="left">My Languages and Stack:</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
