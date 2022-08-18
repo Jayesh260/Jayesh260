@@ -9,7 +9,7 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh260&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![Utkarsh575's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Jayesh260&theme=midnight-purple&hide_border=true)](https://github.com/Jayesh260)
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh260&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![Jayesh260's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Jayesh260&theme=midnight-purple&hide_border=true)](https://github.com/Jayesh260)
 |[![Jayesh260's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayesh260&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/Jayesh260)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/Jayesh260/count.svg)
 
 
