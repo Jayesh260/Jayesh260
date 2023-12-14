@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Jayesh 
   
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Utkarsh" width="30px">
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Jayesh" width="30px">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Small+time+game+creator.)](https://git.io/typing-svg)
 </h1>
