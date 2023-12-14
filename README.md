@@ -48,14 +48,6 @@
 </p>
 
 <h3 align="left">Coding Profiles:</h3>
-
-
-
-
-![Jayesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jayesh260&theme=react-dark)
-
-
-
 - 👀 I’m interested in software developmnent 
 - 🌱 I’m currently learning data structures and algorithms,web development,game development and little bit of cyber security.
 - 💞️ I’m looking to collaborate on projects 
