@@ -34,32 +34,3 @@
       width="40"
   /></a>
 </p>
-<h3 align="left">My Languages and Stack:</h3>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</p>
-
-<h3 align="left">Coding Profiles:</h3>
-
-
-
-
-![Jayesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jayesh260&theme=react-dark)
-
-
-
-- 👀 I’m interested in software developmnent 
-- 🌱 I’m currently learning data structures and algorithms,web development,game development and little bit of cyber security.
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me :- 
-- ✅  jayesh.poonia9@gmail.com
-- ✅  disocrd :- Suspicious Lucy#1284
-- ✅  instagram :- jayeshpoonia
