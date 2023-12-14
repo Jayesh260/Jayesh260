@@ -46,12 +46,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </p>
-
-<h3 align="left">Coding Profiles:</h3>
-- 👀 I’m interested in software developmnent 
-- 🌱 I’m currently learning data structures and algorithms,web development,game development and little bit of cyber security.
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me :- 
-- ✅  jayesh.poonia9@gmail.com
-- ✅  disocrd :- Suspicious Lucy#1284
-- ✅  instagram :- jayeshpoonia
