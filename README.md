@@ -1,8 +1,5 @@
-<h1 align="center">Hi I'm Jayesh 
-  
+<h1 align="center">Hi I'm Jayesh Poonia
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Jayesh" width="30px">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Small+time+game+creator.)](https://git.io/typing-svg)
 </h1>
   
 <h2 align="center">Github Statistics </h2>
@@ -48,14 +45,6 @@
 </p>
 
 <h3 align="left">Coding Profiles:</h3>
-
-
-
-
-![Jayesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jayesh260&theme=react-dark)
-
-
-
 - 👀 I’m interested in software developmnent 
 - 🌱 I’m currently learning data structures and algorithms,web development,game development and little bit of cyber security.
 - 💞️ I’m looking to collaborate on projects 
